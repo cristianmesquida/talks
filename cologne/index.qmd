@@ -1,5 +1,5 @@
 ```{r, include=FALSE}
-url <- "https://cristianmesquida.github.io/talk_in_Cologne/#/title-slide"
+url <- "https://cristianmesquida.github.io/talks/cologne/index.html#/slides"
 subtitle <- sprintf("[%s](%s)", url, url)
 # make QR code
 qrcode::qr_code(url) |> qrcode::generate_svg("images/qrcode.svg")
