@@ -3,7 +3,7 @@ title: "Talks and Presentations"
 ---
 ## 2026
 
-- [**From Guesswork to Rigor: Improving Power Analysis in Sports and Exercise Sciences**](talk_Cologne/index.html). Lunch Talk, German Sport University Cologne.
+- [**From Guesswork to Rigor: Improving Power Analysis in Sports and Exercise Sciences**](cologne/index.html). Lunch Talk, German Sport University Cologne.
 
 - [**Improving the Transparency of Power Analyses with Metacheck**](forrt-ai-conf/index.html). FORRT AI in Metascience Conference.
 

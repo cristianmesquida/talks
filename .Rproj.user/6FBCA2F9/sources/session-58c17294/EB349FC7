@@ -3,7 +3,7 @@
     "path": "~/Dropbox/git-repos/talks/index.qmd",
     "project_path": "index.qmd",
     "type": "quarto_markdown",
-    "hash": "2907391667",
+    "hash": "1015694019",
     "contents": "",
     "dirty": false,
     "created": 1792674464076.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "8,0",
-        "scrollLine": "2"
+        "cursorPosition": "6,0",
+        "scrollLine": "1"
     },
     "folds": "",
-    "lastKnownWriteTime": 1792674651,
+    "lastKnownWriteTime": 1792675069,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1792674651210,
+    "last_content_update": 1792675069687,
     "read_only": false,
     "read_only_alternatives": []
 }
