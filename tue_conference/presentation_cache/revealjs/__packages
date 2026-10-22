@@ -1,0 +1,9 @@
+metacheck
+dplyr
+httr
+jsonlite
+tidyr
+kableExtra
+stringr
+shinydashboard
+shiny.i18n

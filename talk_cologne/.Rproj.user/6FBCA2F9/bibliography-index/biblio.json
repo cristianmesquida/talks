@@ -1,0 +1,728 @@
+{
+    "sources": [
+        {
+            "DOI": "10.51224/SRXIV.534",
+            "author": [
+                {
+                    "family": "Mesquida",
+                    "given": "Cristian"
+                },
+                {
+                    "family": "Murphy",
+                    "given": "Jennifer"
+                },
+                {
+                    "family": "Warne",
+                    "given": "Joe"
+                },
+                {
+                    "family": "Lakens",
+                    "given": "Daniël"
+                }
+            ],
+            "id": "mesquida",
+            "issued": {
+                "date-parts": [
+                    [
+                        2025
+                    ]
+                ]
+            },
+            "language": "en",
+            "title": "On the replicability of sports and exercise science research: Assessing the prevalence of publication bias and studies with underpowered designs by a z-curve analysis",
+            "title-short": "On the replicability of sports and exercise science research",
+            "type": "article-journal"
+        },
+        {
+            "DOI": "10.51224/SRXIV.575",
+            "author": [
+                {
+                    "family": "Mesquida",
+                    "given": "Cristian"
+                },
+                {
+                    "family": "Murphy",
+                    "given": "Jennifer"
+                },
+                {
+                    "family": "Warne",
+                    "given": "Joe"
+                },
+                {
+                    "family": "Lakens",
+                    "given": "Daniël"
+                }
+            ],
+            "id": "mesquida2025",
+            "issued": {
+                "date-parts": [
+                    [
+                        2025,
+                        7
+                    ]
+                ]
+            },
+            "title": "Prevalence, reporting practices, and methodological quality of a priori power analyses in sports and exercise science research",
+            "type": "article-journal"
+        },
+        {
+            "DOI": "10.3758/s13428-022-01902-8",
+            "URL": "https://doi.org/10.3758/s13428-022-01902-8",
+            "author": [
+                {
+                    "family": "Langenberg",
+                    "given": "Benedikt"
+                },
+                {
+                    "family": "Janczyk",
+                    "given": "Markus"
+                },
+                {
+                    "family": "Koob",
+                    "given": "Valentin"
+                },
+                {
+                    "family": "Kliegl",
+                    "given": "Reinhold"
+                },
+                {
+                    "family": "Mayer",
+                    "given": "Axel"
+                }
+            ],
+            "container-title": "Behavior Research Methods",
+            "id": "langenberg2023",
+            "issue": "5",
+            "issued": {
+                "date-parts": [
+                    [
+                        2023,
+                        8,
+                        1
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "2467-2484",
+            "title": "A tutorial on using the paired t test for power calculations in repeated measures ANOVA with interactions",
+            "type": "article-journal",
+            "volume": "55"
+        },
+        {
+            "DOI": "10.1177/25152459231178728",
+            "author": [
+                {
+                    "family": "Sommet",
+                    "given": "Nicolas"
+                },
+                {
+                    "family": "Weissman",
+                    "given": "David L."
+                },
+                {
+                    "family": "Cheutin",
+                    "given": "Nicolas"
+                },
+                {
+                    "family": "Elliot",
+                    "given": "Andrew J."
+                }
+            ],
+            "container-title": "Advances in Methods and Practices in Psychological Science",
+            "id": "sommet2023",
+            "issue": "3",
+            "issued": {
+                "date-parts": [
+                    [
+                        2023,
+                        7
+                    ]
+                ]
+            },
+            "page": "25152459231178728",
+            "title": "How many participants do i need to test an interaction? Conducting an appropriate power analysis and achieving sufficient power to detect an interaction",
+            "type": "article-journal",
+            "volume": "6"
+        },
+        {
+            "DOI": "10.1007/s40279-025-02201-w",
+            "URL": "https://doi.org/10.1007/s40279-025-02201-w",
+            "author": [
+                {
+                    "family": "Murphy",
+                    "given": "Jennifer"
+                },
+                {
+                    "family": "Caldwell",
+                    "given": "Aaron R."
+                },
+                {
+                    "family": "Mesquida",
+                    "given": "Cristian"
+                },
+                {
+                    "family": "Ladell",
+                    "given": "Aera J. M."
+                },
+                {
+                    "family": "Encarnación-Martínez",
+                    "given": "Alberto"
+                },
+                {
+                    "family": "Tual",
+                    "given": "Alexandre"
+                },
+                {
+                    "family": "Denys",
+                    "given": "Andrew"
+                },
+                {
+                    "family": "Cameron",
+                    "given": "Bailey"
+                },
+                {
+                    "family": "Van Hooren",
+                    "given": "Bas"
+                },
+                {
+                    "family": "Parr",
+                    "given": "Ben"
+                },
+                {
+                    "family": "DeLucia",
+                    "given": "Bianca"
+                },
+                {
+                    "family": "Mason",
+                    "given": "Billy R. J."
+                },
+                {
+                    "family": "Clark",
+                    "given": "Brad"
+                },
+                {
+                    "family": "Egan",
+                    "given": "Brendan"
+                },
+                {
+                    "family": "Brown",
+                    "given": "Calum"
+                },
+                {
+                    "family": "Ade",
+                    "given": "Carl"
+                },
+                {
+                    "family": "Sforza",
+                    "given": "Chiarella"
+                },
+                {
+                    "family": "Taber",
+                    "given": "Christopher B."
+                },
+                {
+                    "family": "Kirk",
+                    "given": "Christopher"
+                },
+                {
+                    "family": "McCrum",
+                    "given": "Christopher"
+                },
+                {
+                    "family": "Tighe",
+                    "given": "Cian OKeeffe"
+                },
+                {
+                    "family": "Byrne",
+                    "given": "Ciara"
+                },
+                {
+                    "family": "Brunetti",
+                    "given": "Claudia"
+                },
+                {
+                    "family": "Forestier",
+                    "given": "Cyril"
+                },
+                {
+                    "family": "Martin",
+                    "given": "Dan"
+                },
+                {
+                    "family": "Taylor",
+                    "given": "Danny"
+                },
+                {
+                    "family": "Diggin",
+                    "given": "David"
+                },
+                {
+                    "family": "Gallagher",
+                    "given": "Dearbhla"
+                },
+                {
+                    "family": "King",
+                    "given": "Deborah L."
+                },
+                {
+                    "family": "Rogers",
+                    "given": "Elizabeth"
+                },
+                {
+                    "family": "Bennett",
+                    "given": "Eric C."
+                },
+                {
+                    "family": "Lopatofsky",
+                    "given": "Eric T."
+                },
+                {
+                    "family": "Dunn",
+                    "given": "Gemma"
+                },
+                {
+                    "family": "Gauchar",
+                    "given": "Gérome C."
+                },
+                {
+                    "family": "Mornieux",
+                    "given": "Guillaume"
+                },
+                {
+                    "family": "Catalá-Vilaplana",
+                    "given": "Ignacio"
+                },
+                {
+                    "family": "Caetan",
+                    "given": "Ines"
+                },
+                {
+                    "family": "Aparicio-Aparicio",
+                    "given": "Inmaculada"
+                },
+                {
+                    "family": "Barnes",
+                    "given": "Jack"
+                },
+                {
+                    "family": "Blaisdell",
+                    "given": "Jake"
+                },
+                {
+                    "family": "Steele",
+                    "given": "James"
+                },
+                {
+                    "family": "Fletcher",
+                    "given": "Jared R."
+                },
+                {
+                    "family": "Hutchinson",
+                    "given": "Jasmin"
+                },
+                {
+                    "family": "Au",
+                    "given": "Jason"
+                },
+                {
+                    "family": "Oliemans",
+                    "given": "Jason P."
+                },
+                {
+                    "family": "Bakhshinejad",
+                    "given": "Javad"
+                },
+                {
+                    "family": "Barrios",
+                    "given": "Joaquin"
+                },
+                {
+                    "family": "Quesada",
+                    "given": "Jose Ignacio Priego"
+                },
+                {
+                    "family": "Rager",
+                    "given": "Joseph"
+                },
+                {
+                    "family": "Capon",
+                    "given": "Julia B."
+                },
+                {
+                    "family": "Walton",
+                    "given": "Julie S. J."
+                },
+                {
+                    "family": "Stevens",
+                    "given": "Kailey"
+                },
+                {
+                    "family": "Heinrich",
+                    "given": "Katie"
+                },
+                {
+                    "family": "Wu",
+                    "given": "Kelly"
+                },
+                {
+                    "family": "Meijer",
+                    "given": "Kenneth"
+                },
+                {
+                    "family": "Richards",
+                    "given": "Laura"
+                },
+                {
+                    "family": "Jutlah",
+                    "given": "Lauren"
+                },
+                {
+                    "family": "Tong",
+                    "given": "Le"
+                },
+                {
+                    "family": "Bridgeman",
+                    "given": "Lee"
+                },
+                {
+                    "family": "Banet",
+                    "given": "Leo"
+                },
+                {
+                    "family": "Mbiyu",
+                    "given": "Leonard"
+                },
+                {
+                    "family": "Sefton",
+                    "given": "Lucy"
+                },
+                {
+                    "dropping-particle": "de",
+                    "family": "Chanaleilles",
+                    "given": "Margaret"
+                },
+                {
+                    "family": "Charisi",
+                    "given": "Maria"
+                },
+                {
+                    "family": "Beerse",
+                    "given": "Matthew"
+                },
+                {
+                    "family": "Major",
+                    "given": "Matthew J."
+                },
+                {
+                    "family": "Caon",
+                    "given": "Maya"
+                },
+                {
+                    "family": "Bargh",
+                    "given": "Mel"
+                },
+                {
+                    "family": "Rowley",
+                    "given": "Michael"
+                },
+                {
+                    "family": "Moran",
+                    "given": "Miguel Vaca"
+                },
+                {
+                    "family": "Croker",
+                    "given": "Nicholas"
+                },
+                {
+                    "family": "Hanen",
+                    "given": "Nicolas C."
+                },
+                {
+                    "family": "Montague",
+                    "given": "Nicole"
+                },
+                {
+                    "family": "Brick",
+                    "given": "Noel E."
+                },
+                {
+                    "family": "Runswick",
+                    "given": "Oliver R."
+                },
+                {
+                    "family": "Willems",
+                    "given": "Paul"
+                },
+                {
+                    "family": "Pérez-Soriano",
+                    "given": "Pedro"
+                },
+                {
+                    "family": "Blake",
+                    "given": "Rebecca"
+                },
+                {
+                    "family": "Jones",
+                    "given": "Rebecca"
+                },
+                {
+                    "family": "Quinn",
+                    "given": "Rebecca Louise"
+                },
+                {
+                    "family": "Sanchis-Sanchis",
+                    "given": "Roberto"
+                },
+                {
+                    "family": "Rabello",
+                    "given": "Rodrigo"
+                },
+                {
+                    "family": "Bolger",
+                    "given": "Roisin"
+                },
+                {
+                    "family": "Shohat",
+                    "given": "Roy"
+                },
+                {
+                    "family": "Cotton",
+                    "given": "Sadie"
+                },
+                {
+                    "family": "Chua",
+                    "given": "Samantha"
+                },
+                {
+                    "family": "Norwood",
+                    "given": "Samuel"
+                },
+                {
+                    "family": "Vimeau",
+                    "given": "Samuel"
+                },
+                {
+                    "family": "Dias",
+                    "given": "Sandro"
+                },
+                {
+                    "family": "Pedersen",
+                    "given": "Sissel"
+                },
+                {
+                    "family": "Skaper",
+                    "given": "Spencer S."
+                },
+                {
+                    "family": "Coyle",
+                    "given": "Taylor"
+                },
+                {
+                    "family": "Desai",
+                    "given": "Terun"
+                },
+                {
+                    "family": "Gee",
+                    "given": "Thomas I."
+                },
+                {
+                    "family": "Edwards",
+                    "given": "Tobias"
+                },
+                {
+                    "family": "Pohl",
+                    "given": "Torsten"
+                },
+                {
+                    "family": "Yingling",
+                    "given": "Vanessa"
+                },
+                {
+                    "family": "Ribeiro",
+                    "given": "Vinicius"
+                },
+                {
+                    "family": "Duchene",
+                    "given": "Youri"
+                },
+                {
+                    "family": "Papadakis",
+                    "given": "Zacharias"
+                },
+                {
+                    "family": "Warne",
+                    "given": "Joe P."
+                }
+            ],
+            "container-title": "Sports Medicine",
+            "id": "murphy2025",
+            "issued": {
+                "date-parts": [
+                    [
+                        2025
+                    ]
+                ]
+            },
+            "title": "Estimating the replicability of sports and exercise science research",
+            "type": "article-journal"
+        },
+        {
+            "DOI": "10.1101/2024.07.15.24310458",
+            "author": [
+                {
+                    "family": "Thibault",
+                    "given": "Robert T."
+                },
+                {
+                    "family": "Zavalis",
+                    "given": "Emmanuel A."
+                },
+                {
+                    "family": "Malički",
+                    "given": "Mario"
+                },
+                {
+                    "family": "Pedder",
+                    "given": "Hugo"
+                }
+            ],
+            "id": "thibault2024",
+            "issued": {
+                "date-parts": [
+                    [
+                        2024
+                    ]
+                ]
+            },
+            "language": "en",
+            "title": "An evaluation of reproducibility and errors in published sample size calculations performed using g*power",
+            "type": "article-journal"
+        },
+        {
+            "DOI": "10.1371/journal.pone.0236079",
+            "URL": "https://dx.plos.org/10.1371/journal.pone.0236079",
+            "author": [
+                {
+                    "family": "Bakker",
+                    "given": "Marjan"
+                },
+                {
+                    "family": "Veldkamp",
+                    "given": "Coosje L. S."
+                },
+                {
+                    "family": "Van Den Akker",
+                    "given": "Olmo R."
+                },
+                {
+                    "family": "Van Assen",
+                    "given": "Marcel A. L. M."
+                },
+                {
+                    "family": "Crompvoets",
+                    "given": "Elise"
+                },
+                {
+                    "family": "Ong",
+                    "given": "How Hwee"
+                },
+                {
+                    "family": "Wicherts",
+                    "given": "Jelte M."
+                }
+            ],
+            "container-title": "PLOS ONE",
+            "editor": [
+                {
+                    "family": "Benassi",
+                    "given": "Mariagrazia"
+                }
+            ],
+            "id": "bakker2020",
+            "issue": "7",
+            "issued": {
+                "date-parts": [
+                    [
+                        2020,
+                        7,
+                        31
+                    ]
+                ]
+            },
+            "language": "en",
+            "note": "tex.ids= bakkerRecommendationsPreregistrationsInternal2020a",
+            "page": "e0236079",
+            "title": "Recommendations in pre-registrations and internal review board proposals promote formal power analyses but do not increase sample size",
+            "type": "article-journal",
+            "volume": "15"
+        },
+        {
+            "DOI": "10.1177/00031224211004187",
+            "URL": "https://doi.org/10.1177/00031224211004187",
+            "author": [
+                {
+                    "family": "Lundberg",
+                    "given": "Ian"
+                },
+                {
+                    "family": "Johnson",
+                    "given": "Rebecca"
+                },
+                {
+                    "family": "Stewart",
+                    "given": "Brandon M."
+                }
+            ],
+            "container-title": "American Sociological Review",
+            "id": "lundberg2021",
+            "issue": "3",
+            "issued": {
+                "date-parts": [
+                    [
+                        2021,
+                        6,
+                        1
+                    ]
+                ]
+            },
+            "language": "en",
+            "note": "tex.ids= lundbergWhatYourEstimand2021a",
+            "page": "532-565",
+            "title": "What is your estimand? Defining the target quantity connects statistical evidence to theory",
+            "type": "article-journal",
+            "volume": "86"
+        },
+        {
+            "DOI": "10.1177/2515245920970949",
+            "URL": "https://doi.org/10.1177/2515245920970949",
+            "author": [
+                {
+                    "family": "Lakens",
+                    "given": "Daniël"
+                },
+                {
+                    "family": "DeBruine",
+                    "given": "Lisa M."
+                }
+            ],
+            "container-title": "Advances in Methods and Practices in Psychological Science",
+            "id": "lakens2021",
+            "issue": "2",
+            "issued": {
+                "date-parts": [
+                    [
+                        2021,
+                        4,
+                        1
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "2515245920970949",
+            "title": "Improving transparency, falsifiability, and rigor by making hypothesis tests machine-readable",
+            "type": "article-journal",
+            "volume": "4"
+        }
+    ],
+    "project_biblios": []
+}

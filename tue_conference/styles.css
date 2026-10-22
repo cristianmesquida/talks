@@ -1,0 +1,10 @@
+.reveal pre {
+  max-height: 400px;
+  overflow: auto; /* important: not separate x/y */
+}
+
+.reveal pre code {
+  display: inline-block;   /* allows horizontal overflow */
+  white-space: pre;        /* prevents wrapping */
+  min-width: max-content;  /* forces content to define width */
+}
