@@ -5,11 +5,11 @@ title: "Talks and Presentations"
 
 - [**From Guesswork to Rigor: Improving Power Analysis in Sports and Exercise Sciences**](talk_Cologne/index.html). Lunch Talk, German Sport University Cologne.
 
+- [**Improving the Transparency of Power Analyses with Metacheck**](forrt-ai-conf/index.html). FORRT AI in Metascience Conference.
+
 - [**From Guesswork to Rigor: Improving Power Analysis in Sports and Exercise Sciences**](metascience_symposium_oslo/index.html). OHN Metascience Symposium, Oslo Nye Høyskole.
 
-- [**Improving the Transparency of Power Analyses with Metacheck**](forrt_ai_conf/index.html). FORRT AI in Metascience Conference.
-
-- [**Metacheck: An automated tool to improve scientific manuscripts**](tue_conference/). Technology and AI in Peer Review Conference, Eindhoven University of Technology.
+- [**Metacheck: An automated tool to improve scientific manuscripts**](tue_conference/index.html). Technology and AI in Peer Review Conference, Eindhoven University of Technology.
 
 ## 2025
 
